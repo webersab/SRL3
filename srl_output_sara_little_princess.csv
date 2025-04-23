@@ -1,0 +1,525 @@
+sentence_ID,verb,agent,patient
+12,hold,Captain Crewe,protag
+18,prepare,136,protag
+19,know,protag,158
+19,miss,protag,158
+22,know,protag,159
+22,hear,protag,164
+22,think,164,protag
+22,hear,protag,164
+29,see,protag,172
+30,attract,protag,Sara
+30,attract,136,protag
+39,console,protag,Sara
+39,console,Sara,protag
+46,hold,136,protag
+49,lift,Captain Crewe,protag
+58,hear,Captain Crewe,protag
+64,sweep,Captain Crewe,protag
+64,kiss,Captain Crewe,protag
+68,see,Miss Minchin,protag
+103,ride,protag,Sara
+103,ride,Sara,protag
+116,call,protag,Emily
+118,want,protag,Emily
+133,put,protag,Sara
+133,put,Sara,protag
+139,clutch,protag,136
+139,clutch,Sara,protag
+151,take,protag,Sara
+151,take,Sara,protag
+174,stroke,Captain Crewe,protag
+202,pass,Lavinia,protag
+215,think,Lavinia,protag
+228,wish,protag,Emily
+230,dressed,Mariette,protag
+230,tie,Mariette,protag
+260,wish,protag,Sara
+260,wish,1843,protag
+266,love,Captain Crewe,protag
+322,noticed,protag,325
+336,see,protag,1865
+373,tuck,protag,Sara
+373,tuck,Sara,protag
+398,think,protag,164
+423,pretend,protag,Sara
+423,pretend,Sara,protag
+423,believe,protag,Sara
+423,believe,Sara,protag
+449,draw,protag,Sara
+449,draw,Sara,protag
+449,shut,protag,Sara
+449,shut,Sara,protag
+496,tell,protag,Sara
+496,tell,Sara,protag
+496,remove,Captain Crewe,protag
+517,make,protag,Sara
+517,make,Sara,protag
+520,show,Miss Minchin,protag
+524,learn,protag,Sara
+524,learn,Sara,protag
+526,say,protag,Sara
+526,say,Sara,protag
+527,hear,protag,291
+527,hear,Sara,protag
+537,share,protag,Sara
+537,share,Sara,protag
+539,pat,protag,164
+540,push,protag,164
+545,adore,414,protag
+550,worship,Lottie,protag
+550,find,protag,Sara
+550,find,Sara,protag
+557,take,protag,268
+558,make,Miss Minchin,protag
+570,quiet,protag,Lottie
+571,see,Miss Minchin,protag
+575,think,Lottie,protag
+577,change,protag,Sara
+577,change,Sara,protag
+581,leave,protag,Sara
+581,leave,Sara,protag
+591,try,Miss Minchin,protag
+619,like,Lottie,protag
+619,know,Lottie,protag
+630,see,protag,Sara
+630,see,453,protag
+630,think,453,protag
+643,put,protag,Sara
+643,put,Sara,protag
+647,pull,protag,Sara
+647,pull,Sara,protag
+656,wash,protag,Sara
+656,brush,protag,Sara
+656,wash,Sara,protag
+656,brush,Sara,protag
+664,finish,protag,Sara
+664,finish,Sara,protag
+664,lay,protag,Sara
+664,lay,Sara,protag
+677,do,protag,Sara
+677,do,Sara,protag
+678,raise,protag,Sara
+678,raise,Sara,protag
+704,put,protag,Lottie
+710,see,protag,503
+723,leave,Mariette,protag
+725,think,protag,Becky
+727,hope,protag,Sara
+727,hope,Sara,protag
+727,see,protag,Becky
+728,enter,protag,Sara
+728,enter,Sara,protag
+728,find,protag,Sara
+728,find,Sara,protag
+732,save,Sara,protag
+732,save,protag,Sara
+744,make,Mariette,protag
+745,make,Mariette,protag
+789,have,protag,Sara
+789,have,Sara,protag
+798,put,protag,Sara
+798,put,Sara,protag
+832,believe,protag,Sara
+832,believe,Sara,protag
+832,pretend,protag,Sara
+832,pretend,Sara,protag
+835,leave,protag,Sara
+835,leave,Sara,protag
+887,learn,protag,Sara
+887,learn,Sara,protag
+888,want,protag,Ermengarde
+895,think,Lavinia,protag
+908,curl,protag,Sara
+908,curl,Sara,protag
+928,put,protag,Sara
+928,put,Sara,protag
+932,pat,protag,Lottie
+941,want,protag,Sara
+941,want,Sara,protag
+959,box,protag,Sara
+959,box,Sara,protag
+966,save,protag,Sara
+966,save,Sara,protag
+969,hold,protag,Sara
+969,hold,Sara,protag
+972,pretend,protag,Sara
+972,pretend,Sara,protag
+981,call,1775,protag
+1015,make,Nature,protag
+1018,make,protag,Becky
+1036,respect,protag,The Last Doll
+1051,think,protag,Sara
+1051,think,Sara,protag
+1062,see,protag,Becky
+1084,lead,Miss Minchin,protag
+1121,know,protag,Becky
+1131,let,protag,Becky
+1149,feel,protag,Sara
+1149,feel,Sara,protag
+1155,cause,protag,Miss Minchin
+1155,call,Miss Minchin,protag
+1156,exhibit,Sara,protag
+1156,exhibit,protag,Sara
+1157,appreciate,Miss Minchin,protag
+1187,reveal,protag,492
+1363,change,protag,Sara
+1363,change,Sara,protag
+1438,watch,Emily,protag
+1449,hold,protag,Emily
+1455,give,protag,Sara
+1455,give,2200,protag
+1457,know,protag,Sara
+1457,know,Sara,protag
+1472,have,protag,1775
+1472,keep,Miss Minchin,protag
+1476,turn,protag,Sara
+1476,turn,Sara,protag
+1491,wear,protag,Sara
+1491,wear,Sara,protag
+1500,make,protag,Sara
+1500,make,Sara,protag
+1500,let,268,protag
+1504,know,protag,Sara
+1504,know,Sara,protag
+1505,like,protag,414
+1505,like,414,protag
+1509,please,protag,Miss Minchin
+1524,stop,Miss Minchin,protag
+1524,stare,Miss Minchin,protag
+1525,hold,protag,Emily
+1556,lay,protag,Emily
+1556,put,protag,Sara
+1556,put,Sara,protag
+1563,hold,protag,Sara
+1563,hold,Sara,protag
+1595,keep,protag,414
+1599,hear,protag,414
+1606,want,protag,746
+1606,earn,protag,Sara
+1606,earn,Sara,protag
+1616,drop,protag,Sara
+1616,drop,Sara,protag
+1630,like,Lavinia,protag
+1630,find,protag,164
+1634,think,protag,459
+1637,take,protag,Sara
+1637,take,Sara,protag
+1649,help,protag,Sara
+1649,help,Sara,protag
+1656,besiege,Ermengarde,protag
+1658,forgot,protag,Ermengarde
+1660,see,Ermengarde,protag
+1660,meet,protag,Sara
+1660,meet,Sara,protag
+1660,encounter,protag,Sara
+1660,encounter,Sara,protag
+1666,imagine,Ermengarde,protag
+1667,make,protag,Sara
+1667,make,Sara,protag
+1670,know,Ermengarde,protag
+1684,make,protag,Sara
+1684,make,Sara,protag
+1724,like,protag,Ermengarde
+1729,think,protag,Ermengarde
+1737,see,protag,Sara
+1737,see,Sara,protag
+1739,want,Miss Minchin,protag
+1746,desert,Ermengarde,protag
+1747,clasp,protag,Sara
+1747,clasp,Sara,protag
+1752,beg,Ermengarde,protag
+1752,let,protag,817
+1801,console,protag,Lottie
+1817,see,protag,Sara
+1817,see,Sara,protag
+1836,hug,protag,Lottie
+1845,lift,protag,Lottie
+1893,make,protag,Lottie
+1906,let,protag,Sara
+1906,let,Sara,protag
+1911,lift,protag,Sara
+1911,lift,Sara,protag
+1911,leave,protag,Sara
+1911,leave,Sara,protag
+1920,like,protag,164
+1921,see,164,protag
+1933,make,protag,1887
+1943,watch,protag,886
+1958,find,protag,Ermengarde
+1961,draw,protag,Ermengarde
+1981,make,protag,2331
+1982,know,2331,protag
+1982,call,protag,2331
+1984,watch,Ermengarde,protag
+1993,think,Ermengarde,protag
+2001,hear,protag,2324
+2053,have,protag,1775
+2054,look,164,protag
+2056,see,1775,protag
+2057,know,protag,Sara
+2057,know,Sara,protag
+2059,bit,protag,Sara
+2059,bit,Sara,protag
+2060,amuse,protag,Sara
+2060,amuse,Sara,protag
+2068,call,protag,944
+2068,call,protag,944
+2073,forgot,protag,Sara
+2073,forgot,Sara,protag
+2079,see,Guy Clarence,protag
+2081,snatch,protag,Guy Clarence
+2081,kiss,protag,Guy Clarence
+2101,know,protag,Sara
+2101,know,Sara,protag
+2103,put,protag,Sara
+2103,put,Sara,protag
+2127,believe,Janet,protag
+2132,give,protag,634
+2133,love,protag,Sara
+2133,insinuate,protag,988
+2133,love,988,protag
+2135,put,protag,Sara
+2135,put,Sara,protag
+2142,put,protag,Emily
+2144,find,protag,Sara
+2144,find,Sara,protag
+2184,hide,protag,Sara
+2184,hide,Sara,protag
+2189,raise,protag,Sara
+2189,raise,Sara,protag
+2190,pick,protag,Emily
+2196,kiss,protag,Emily
+2196,shake,protag,Emily
+2196,put,protag,Emily
+2278,get,protag,Sara
+2278,get,Sara,protag
+2283,turn,protag,Sara
+2283,turn,Sara,protag
+2288,order,621,protag
+2289,mount,protag,Sara
+2289,mount,Sara,protag
+2313,know,protag,1106
+2314,let,1106,protag
+2314,catch,protag,1106
+2318,make,protag,1118
+2322,think,protag,Sara
+2322,think,Sara,protag
+2332,think,protag,1118
+2345,thank,Ram Dass,protag
+2353,treat,1142,protag
+2353,treat,Ram Dass,protag
+2359,know,protag,Sara
+2359,know,Sara,protag
+2363,make,1151,protag
+2366,straighten,protag,Sara
+2366,lift,protag,Sara
+2366,straighten,Sara,protag
+2366,lift,Sara,protag
+2372,like,protag,Janet
+2380,spare,protag,Sara
+2380,spare,Sara,protag
+2390,give,protag,988
+2394,box,protag,Sara
+2394,box,Sara,protag
+2396,catch,protag,Sara
+2396,catch,Sara,protag
+2397,know,Sara,protag
+2397,know,protag,Sara
+2400,control,protag,Sara
+2400,control,Sara,protag
+2411,attack,Miss Minchin,protag
+2438,adopt,protag,1073
+2464,see,protag,Sara
+2464,see,Sara,protag
+2468,hope,protag,1073
+2602,pass,protag,Lavinia
+2602,stop,protag,Sara
+2602,stop,Sara,protag
+2605,bit,protag,Sara
+2605,bit,Sara,protag
+2623,say,protag,1982
+2628,see,protag,2551
+2635,knit,protag,Sara
+2635,knit,Sara,protag
+2641,say,protag,Sara
+2641,say,Sara,protag
+2648,punish,Miss Minchin,protag
+2651,make,protag,Sara
+2651,make,Sara,protag
+2655,move,protag,Sara
+2655,move,Sara,protag
+2664,pick,protag,Sara
+2664,pick,Sara,protag
+2664,pick,Sara,protag
+2664,pick,protag,Sara
+2670,face,protag,Sara
+2670,face,Sara,protag
+2673,know,protag,Sara
+2673,know,Sara,protag
+2676,put,protag,Sara
+2676,put,Sara,protag
+2680,know,protag,1258
+2680,see,protag,1258
+2684,see,1261,protag
+2723,see,1265,protag
+2734,thank,protag,1265
+2737,see,protag,1274
+2745,hear,protag,268
+2798,overeating,protag,Sara
+2798,overeating,Sara,protag
+2802,see,protag,1204
+2802,call,protag,1204
+2809,see,protag,634
+2813,miss,protag,1204
+2813,know,1204,protag
+2830,say,protag,1308
+2834,lug,protag,Sara
+2834,lug,Sara,protag
+2850,know,1320,protag
+2940,see,protag,Ram Dass
+2940,catch,protag,Sara
+2940,catch,Sara,protag
+2959,lay,protag,Sara
+2959,lay,Sara,protag
+3000,put,protag,Sara
+3000,shake,protag,Sara
+3000,put,Sara,protag
+3000,shake,Sara,protag
+3020,forgot,protag,Sara
+3020,forgot,Sara,protag
+3048,tell,protag,0
+3050,make,protag,Ermengarde
+3050,think,protag,1875
+3054,pull,protag,Sara
+3054,pull,Sara,protag
+3071,believe,protag,Ermengarde
+3090,reach,Ermengarde,protag
+3137,think,Miss Minchin,protag
+3141,drive,protag,Becky
+3174,find,protag,Sara
+3174,find,Sara,protag
+3180,lift,protag,Sara
+3180,lift,Sara,protag
+3192,know,protag,Sara
+3192,know,Sara,protag
+3206,suppose,protag,2692
+3206,see,2692,protag
+3220,clutch,protag,Ermengarde
+3263,catch,protag,Sara
+3263,catch,Sara,protag
+3288,raise,protag,Sara
+3288,set,protag,Sara
+3288,raise,Sara,protag
+3288,set,Sara,protag
+3295,see,Becky,protag
+3320,find,protag,Becky
+3374,make,protag,Sara
+3374,make,Sara,protag
+3396,wave,protag,Sara
+3396,wave,Sara,protag
+3399,command,protag,Sara
+3399,command,Sara,protag
+3399,feast,protag,2743
+3400,turn,protag,Sara
+3400,turn,Sara,protag
+3465,leave,Miss Minchin,protag
+3469,see,protag,Emily
+3469,pick,protag,Emily
+3560,remember,Becky,protag
+3565,draw,protag,Becky
+3575,find,Sara,protag
+3575,find,protag,Sara
+3575,give,protag,Sara
+3575,give,Sara,protag
+3579,have,protag,868
+3588,think,protag,Sara
+3588,think,Sara,protag
+3592,find,protag,Sara
+3592,find,Sara,protag
+3602,send,Miss Minchin,protag
+3606,know,protag,Sara
+3606,know,Sara,protag
+3614,turn,Miss Minchin,protag
+3614,want,Miss Minchin,protag
+3678,thank,protag,2793
+3696,rub,protag,Sara
+3696,rub,Sara,protag
+3715,lose,protag,Sara
+3715,lose,Sara,protag
+3737,comfort,protag,Sara
+3737,save,protag,Sara
+3737,comfort,Sara,protag
+3737,save,Sara,protag
+3743,know,protag,Sara
+3743,know,Sara,protag
+3744,occupy,protag,Sara
+3744,occupy,Sara,protag
+3769,learn,protag,Sara
+3769,learn,Sara,protag
+3769,wish,protag,Sara
+3769,wish,Sara,protag
+3774,see,Miss Minchin,protag
+3803,learn,protag,Sara
+3803,learn,Sara,protag
+3812,envy,Lavinia,protag
+3826,shake,protag,Sara
+3826,shake,Sara,protag
+3833,want,protag,1794
+3833,make,1794,protag
+3843,mind,1794,protag
+3843,thank,protag,1794
+3877,coax,protag,1539
+3894,like,protag,1543
+4030,bring,protag,Mr. Carrrisford
+4031,know,protag,1073
+4044,lay,protag,Sara
+4044,lay,Sara,protag
+4045,meet,protag,1073
+4094,think,protag,1113
+4109,take,Mrs. Carmichael,protag
+4120,take,Mrs. Carmichael,protag
+4120,kiss,Mrs. Carmichael,protag
+4126,kiss,Mrs. Carmichael,protag
+4131,recover,2928,protag
+4138,see,2928,protag
+4138,make,2928,protag
+4139,make,Ram Dass,protag
+4158,drop,protag,Sara
+4158,drop,Sara,protag
+4170,like,Miss Minchin,protag
+4170,like,protag,Miss Minchin
+4172,want,Miss Minchin,protag
+4218,make,1073,protag
+4218,hold,1073,protag
+4233,find,Mr. Carrisford,protag
+4233,keep,Mr. Carrisford,protag
+4243,finish,protag,Sara
+4243,finish,Sara,protag
+4249,spoil,Miss Minchin,protag
+4258,say,Miss Minchin,protag
+4259,do,protag,Sara
+4259,do,Sara,protag
+4261,look,protag,Miss Minchin
+4286,know,Miss Minchin,protag
+4286,know,Miss Minchin,protag
+4333,order,2010,protag
+4334,find,Mr. Carrisford,protag
+4334,get,Mr. Carrisford,protag
+4335,see,Ermengarde,protag
+4367,watch,1073,protag
+4368,put,protag,Sara
+4368,put,Sara,protag
+4371,call,protag,1073
+4389,like,1073,protag
+4424,like,1073,protag
+4424,call,protag,1073
+4424,draw,1073,protag
+4424,stroke,1073,protag
+4434,remember,1265,protag
+4448,watch,1265,protag
+4464,know,1746,protag
+4474,understand,protag,Sara
+4474,understand,Sara,protag
+4474,look,protag,Sara
+4474,look,Sara,protag
