@@ -25,7 +25,7 @@ This project processes text data using Semantic Role Labeling (SRL) and Corefere
     pip install -r requirements.txt 
 You will also have to install BookNLP
 
-3. Ensure the required models (coref.tar.gz and srl.tar.gz) are present in the project directory. They are not on git because they are to big, I will get them to you in some other way.
+3. Ensure the required models are present in the project directory. They are not on git because they are to big. You can download the SRL model here: https://drive.google.com/file/d/1kK6QdkBfmD8YkTuKivdGXMGLkC1MFg1x/view?usp=sharing 
 
 4. Download the en_core_web_sm model for spaCy:
     ```bash
