@@ -1,0 +1,27 @@
+sentence_ID,verb,agent,patient
+12,hold,protag,Sara
+49,lift,protag,Sara
+58,hear,protag,Sara
+64,sweep,protag,Sara
+64,kiss,protag,Sara
+128,want,protag,226
+128,want,Captain Crewe,protag
+147,have,protag,223
+163,pull,protag,Captain Crewe
+163,pull,Captain Crewe,protag
+174,stroke,protag,Sara
+266,love,protag,Sara
+496,remove,protag,Sara
+1041,see,protag,The Last Doll
+1042,have,protag,The Last Doll
+1042,round,The Last Doll,protag
+2545,trust,protag,Mr. Carrisford
+2545,LOVED,protag,Mr. Carrisford
+2546,think,protag,Mr. Carrisford
+2546,ruin,Mr. Carrisford,protag
+2547,think,protag,Mr. Carrisford
+2571,hear,Mr. Carrisford,protag
+2575,call,protag,268
+2587,see,Mr. Carrisford,protag
+4222,suppose,protag,Captain Crewe
+4222,suppose,Captain Crewe,protag

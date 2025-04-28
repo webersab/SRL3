@@ -1,0 +1,22 @@
+sentence_ID,verb,agent,patient
+2545,trust,Captain Crewe,protag
+2545,LOVED,Captain Crewe,protag
+2546,think,Captain Crewe,protag
+2546,ruin,protag,Captain Crewe
+2547,think,Captain Crewe,protag
+2549,face,protag,2518
+2549,tell,protag,Mr. Carrisford
+2549,face,Mr. Carrisford,protag
+2549,tell,Mr. Carrisford,protag
+2549,ruin,protag,2518
+2567,remember,protag,268
+2568,recall,protag,268
+2571,hear,protag,Captain Crewe
+2573,hear,protag,268
+2587,see,protag,Captain Crewe
+3921,pat,protag,Janet
+4233,find,protag,Sara
+4233,keep,protag,Sara
+4246,say,Mr. Carmichael,protag
+4334,find,protag,Sara
+4334,get,protag,Sara

@@ -1,0 +1,27 @@
+sentence_ID,verb,agent,patient
+557,take,Sara,protag
+1500,let,protag,Sara
+2502,adopt,2478,protag
+2567,remember,Mr. Carrisford,protag
+2568,recall,Mr. Carrisford,protag
+2573,hear,Mr. Carrisford,protag
+2575,call,Captain Crewe,protag
+2689,shuffle,protag,268
+2689,shuffle,268,protag
+2745,hear,Sara,protag
+2757,watch,protag,268
+2757,watch,268,protag
+2758,jerked,protag,268
+2758,jerked,268,protag
+2770,nod,protag,268
+2770,nod,268,protag
+2864,see,Ram Dass,protag
+2864,see,protag,Ram Dass
+2866,watch,Ram Dass,protag
+2866,know,protag,Ram Dass
+2880,find,protag,2610
+3973,see,Mr. Carmichael,protag
+4291,dislike,Miss Minchin,protag
+4298,behave,protag,268
+4298,behave,268,protag
+4378,think,protag,2627

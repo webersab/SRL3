@@ -1,0 +1,20 @@
+sentence_ID,verb,agent,patient
+2438,adopt,Sara,protag
+2455,think,protag,1073
+2455,think,1073,protag
+2468,hope,Sara,protag
+4031,know,Sara,protag
+4043,hold,protag,1073
+4043,hold,1073,protag
+4045,meet,Sara,protag
+4194,see,protag,Miss Minchin
+4218,make,protag,Sara
+4218,hold,protag,Sara
+4367,watch,protag,Sara
+4371,call,Sara,protag
+4389,like,protag,Sara
+4390,prophesied,Mr. Carmichael,protag
+4424,draw,protag,Sara
+4424,stroke,protag,Sara
+4424,like,protag,Sara
+4424,call,Sara,protag
