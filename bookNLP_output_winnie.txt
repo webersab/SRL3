@@ -1,0 +1,1306 @@
+44 654 Pooh he/him/his
+
+	poss	7 legs
+	poss	6 paws
+	poss	5 nose
+	poss	5 house
+	poss	4 feet
+	poss	4 boat
+	poss	3 head
+	poss	3 jar
+	poss	3 tree
+	poss	3 branch
+	poss	2 birthday
+	poss	2 door
+	poss	2 friend
+	poss	2 chair
+	poss	1 way
+	poss	1 bread
+	poss	1 ears
+	poss	1 shoulders
+	poss	1 then----
+	poss	1 eye
+	poss	1 Rabbit
+	poss	1 lick
+	poss	1 paw
+	poss	1 spelling
+	poss	1 family
+	poss	1 gun
+	poss	1 song
+	poss	1 whisper
+	poss	1 place
+	poss	1 lunch
+	poss	1 hands
+	poss	1 pole
+	poss	1 supper
+	poss	1 pot
+	poss	1 umbrella
+	poss	1 stick
+	poss	1 life
+	poss	1 eyes
+	poss	1 shoulder
+
+	agent	106 said
+	agent	19 thought
+	agent	14 see
+	agent	13 got
+	agent	13 think
+	agent	12 looked
+	agent	12 went
+	agent	10 had
+	agent	8 found
+	agent	8 know
+	agent	7 do
+	agent	7 asked
+	agent	6 tried
+	agent	6 have
+	agent	6 began
+	agent	6 took
+	agent	6 slept
+	agent	5 sang
+	agent	5 wanted
+	agent	4 pushed
+	agent	4 get
+	agent	4 sat
+	agent	4 giving
+	agent	4 saying
+	agent	4 find
+	agent	3 going
+	agent	3 go
+	agent	3 read
+	agent	3 finished
+	agent	3 did
+	agent	3 brought
+	agent	3 tell
+	agent	2 stay
+	agent	2 pulled
+	agent	2 beginning
+	agent	2 getting
+	agent	2 seem
+	agent	2 scratched
+	agent	2 want
+	agent	2 turned
+	agent	2 knocked
+	agent	2 washed
+	agent	2 splashed
+	agent	2 suppose
+	agent	2 wonder
+	agent	2 talking
+	agent	2 gave
+	agent	2 jump
+	agent	2 stumped
+	agent	2 sing
+	agent	2 knew
+	agent	2 came
+	agent	2 taken
+	agent	2 fell
+	agent	2 saw
+	agent	2 escape
+	agent	2 comes
+	agent	2 discovered
+	agent	2 left
+	agent	2 escaped
+	agent	2 climbed
+	agent	2 put
+	agent	2 walked
+	agent	1 floated
+	agent	1 stayed
+	agent	1 say
+	agent	1 liked
+	agent	1 added
+	agent	1 shook
+	agent	1 nodding
+	agent	1 started
+	agent	1 stretched
+	agent	1 cried
+	agent	1 hate
+	agent	1 mean
+	agent	1 taking
+	agent	1 mind
+	agent	1 rolled
+	agent	1 help
+	agent	1 fly
+	agent	1 hummed
+	agent	1 waved
+	agent	1 called
+	agent	1 hurried
+	agent	1 felt
+	agent	1 trying
+	agent	1 reached
+	agent	1 seen
+	agent	1 explained
+	agent	1 gone
+	agent	1 remembered
+	agent	1 eaten
+	agent	1 give
+	agent	1 passing
+	agent	1 wash
+	agent	1 write
+	agent	1 dried
+	agent	1 sitting
+	agent	1 nodded
+	agent	1 forgetting
+
+	patient	3 see
+	patient	3 asked
+	patient	3 Thank
+	patient	2 tell
+	patient	2 round
+	patient	2 rescue
+	patient	1 pull
+	patient	1 push
+	patient	1 pushed
+	patient	1 getting
+	patient	1 looked
+	patient	1 called
+	patient	1 stolen
+	patient	1 whispered
+	patient	1 scolded
+	patient	1 rubbed
+	patient	1 revive
+	patient	1 began
+	patient	1 call
+	patient	1 seen
+	patient	1 love
+	patient	1 sitting
+	patient	1 sent
+	patient	1 explained
+
+	mod	2 glad
+	mod	2 excited
+	mod	2 uncertain
+	mod	1 sure
+	mod	1 good
+	mod	1 useful
+	mod	1 pleased
+	mod	1 ready
+	mod	1 proud
+	mod	1 tired
+	mod	1 right
+
+36 623 Pooh he/him/his
+
+	poss	8 head
+	poss	8 nose
+	poss	5 paw
+	poss	3 friend
+	poss	3 mouth
+	poss	3 gun
+	poss	3 umbrella
+	poss	2 paws
+	poss	2 house
+	poss	2 honey
+	poss	2 tongue
+	poss	1 arms
+	poss	1 life
+	poss	1 eyes
+	poss	1 idea
+	poss	1 uncle
+	poss	1 preparations
+	poss	1 jar
+	poss	1 case
+
+	agent	111 said
+	agent	14 thought
+	agent	14 went
+	agent	14 looked
+	agent	14 think
+	agent	12 see
+	agent	9 had
+	agent	9 put
+	agent	8 know
+	agent	8 got
+	agent	8 do
+	agent	7 climbed
+	agent	7 have
+	agent	7 took
+	agent	7 come
+	agent	6 stood
+	agent	6 tell
+	agent	5 came
+	agent	5 sang
+	agent	5 decided
+	agent	5 did
+	agent	5 tried
+	agent	5 felt
+	agent	4 likes
+	agent	4 like
+	agent	4 go
+	agent	4 knew
+	agent	4 called
+	agent	4 walk
+	agent	4 say
+	agent	4 saw
+	agent	4 going
+	agent	4 ran
+	agent	3 sat
+	agent	3 began
+	agent	3 asked
+	agent	3 let
+	agent	3 missed
+	agent	3 heard
+	agent	3 pulled
+	agent	3 saying
+	agent	3 nodded
+	agent	3 get
+	agent	2 mind
+	agent	2 meant
+	agent	2 suppose
+	agent	2 wonder
+	agent	2 holding
+	agent	2 look
+	agent	2 reach
+	agent	2 walked
+	agent	2 aimed
+	agent	2 fired
+	agent	2 miss
+	agent	2 hit
+	agent	2 remember
+	agent	2 doing
+	agent	2 pointed
+	agent	2 stopped
+	agent	2 liked
+	agent	2 scratched
+	agent	2 brightened
+	agent	2 knocked
+	agent	2 sneeze
+	agent	2 found
+	agent	2 rubbed
+	agent	2 fell
+	agent	2 woke
+	agent	2 remembered
+	agent	2 stumped
+	agent	2 bear
+	agent	1 having
+	agent	1 comes
+	agent	1 lived
+	agent	1 eat
+	agent	1 getting
+	agent	1 dropped
+	agent	1 bounced
+	agent	1 explained
+	agent	1 turned
+	agent	1 crashed
+	agent	1 admitted
+	agent	1 slithered
+	agent	1 crawled
+	agent	1 brushed
+	agent	1 brought
+	agent	1 coming
+	agent	1 try
+	agent	1 floated
+	agent	1 shouted
+	agent	1 stayed
+	agent	1 smell
+	agent	1 wish
+	agent	1 bring
+	agent	1 laughed
+	agent	1 beginning
+	agent	1 discovered
+	agent	1 wondered
+	agent	1 thinking
+	agent	1 fall
+
+	patient	4 called
+	patient	3 notice
+	patient	3 tell
+	patient	2 asked
+	patient	2 trailing
+	patient	2 hurt
+	patient	1 take
+	patient	1 blow
+	patient	1 tells
+	patient	1 spoil
+	patient	1 shot
+	patient	1 heard
+	patient	1 watching
+	patient	1 went
+	patient	1 telling
+	patient	1 Thank
+	patient	1 Bother
+	patient	1 Excuse
+	patient	1 reminds
+	patient	1 help
+	patient	1 have
+	patient	1 catch
+	patient	1 left
+	patient	1 told
+	patient	1 growled
+
+	mod	3 right
+	mod	2 sure
+	mod	2 part
+	mod	2 sorry
+	mod	1 favourite
+	mod	1 sort
+	mod	1 black
+	mod	1 fond
+	mod	1 Foolish
+	mod	1 proud
+	mod	1 hungry
+	mod	1 pleased
+
+38 587 Piglet he/him/his
+
+	poss	8 house
+	poss	3 ear
+	poss	3 head
+	poss	3 face
+	poss	3 mouth
+	poss	2 voice
+	poss	2 W
+	poss	2 party
+	poss	2 birthday
+	poss	2 colour
+	poss	2 paws
+	poss	2 friend
+	poss	2 window
+	poss	2 joy
+	poss	1 W.
+	poss	1 nose
+	poss	1 Pit
+	poss	1 brain
+	poss	1 Heffalump
+	poss	1 time
+	poss	1 way
+	poss	1 paw
+	poss	1 foot
+	poss	1 balloon
+	poss	1 leg
+	poss	1 hoof
+	poss	1 present
+	poss	1 asking
+	poss	1 size
+	poss	1 name
+	poss	1 Journey
+	poss	1 back
+	poss	1 life
+	poss	1 bed
+	poss	1 bottle
+	poss	1 imprisonment
+	poss	1 toes
+	poss	1 aunt
+
+	agent	88 said
+	agent	25 thought
+	agent	10 had
+	agent	9 go
+	agent	7 looked
+	agent	6 got
+	agent	6 mind
+	agent	6 think
+	agent	6 went
+	agent	6 say
+	agent	6 have
+	agent	5 tried
+	agent	5 see
+	agent	5 ran
+	agent	5 put
+	agent	5 going
+	agent	4 saying
+	agent	4 do
+	agent	4 know
+	agent	4 hear
+	agent	4 came
+	agent	3 wished
+	agent	3 remembered
+	agent	3 saw
+	agent	3 like
+	agent	3 fell
+	agent	3 wonder
+	agent	3 nodded
+	agent	2 slips
+	agent	2 lived
+	agent	2 was
+	agent	2 called
+	agent	2 ask
+	agent	2 gave
+	agent	2 tell
+	agent	2 wondering
+	agent	2 jumped
+	agent	2 cried
+	agent	2 found
+	agent	2 suppose
+	agent	2 did
+	agent	2 mean
+	agent	2 wanted
+	agent	2 smell
+	agent	2 get
+	agent	2 felt
+	agent	2 find
+	agent	2 made
+	agent	2 stop
+	agent	2 speak
+	agent	2 held
+	agent	2 give
+	agent	2 shouted
+	agent	2 began
+	agent	2 explained
+	agent	2 brought
+	agent	2 wondered
+	agent	2 sitting
+	agent	2 jumping
+	agent	2 care
+	agent	2 told
+	agent	1 squeaked
+	agent	1 thinks
+	agent	1 comes
+	agent	1 has
+	agent	1 says
+	agent	1 brushing
+	agent	1 happened
+	agent	1 turn
+	agent	1 scratched
+	agent	1 licked
+	agent	1 wishing
+	agent	1 make
+	agent	1 catch
+	agent	1 dig
+	agent	1 climbed
+	agent	1 woke
+	agent	1 feel
+	agent	1 peep
+	agent	1 crept
+	agent	1 shook
+	agent	1 help
+	agent	1 bumping
+	agent	1 lifted
+	agent	1 scampered
+	agent	1 crying
+	agent	1 trying
+	agent	1 gone
+	agent	1 look
+	agent	1 lay
+	agent	1 trotted
+	agent	1 doubt
+	agent	1 pushed
+	agent	1 having
+	agent	1 blow
+	agent	1 running
+	agent	1 burst
+	agent	1 sniffing
+	agent	1 murmured
+	agent	1 opening
+
+	patient	3 asked
+	patient	2 ask
+	patient	2 Meaning
+	patient	2 cried
+	patient	2 told
+	patient	1 feel
+	patient	1 went
+	patient	1 saw
+	patient	1 catch
+	patient	1 help
+	patient	1 found
+	patient	1 Thank
+	patient	1 gave
+	patient	1 say
+	patient	1 flying
+	patient	1 took
+	patient	1 scrubbing
+	patient	1 spluttered
+	patient	1 patted
+	patient	1 used
+	patient	1 said
+	patient	1 imagined
+	patient	1 expect
+	patient	1 comfort
+	patient	1 woke
+	patient	1 jerk
+	patient	1 rescue
+	patient	1 save
+	patient	1 mean
+	patient	1 tell
+
+	mod	2 frightened
+	mod	2 sure
+	mod	2 afraid
+	mod	1 jealous
+	mod	1 small
+	mod	1 ashamed
+	mod	1 idea
+	mod	1 alone
+	mod	1 face
+	mod	1 glad
+	mod	1 animal
+	mod	1 Useful
+	mod	1 excited
+	mod	1 bird
+	mod	1 colour
+	mod	1 about
+	mod	1 goodness
+
+34 365 Christopher Robin he/him/his
+
+	poss	4 house
+	poss	4 umbrella
+	poss	3 door
+	poss	3 grandfather
+	poss	2 bath
+	poss	2 head
+	poss	1 eyes
+	poss	1 face
+	poss	1 Bear
+	poss	1 friends
+	poss	1 walk
+	poss	1 tree
+	poss	1 shoes
+	poss	1 hand
+	poss	1 joy
+	poss	1 Boots
+	poss	1 nose
+	poss	1 paw
+	poss	1 back
+	poss	1 boot
+	poss	1 mouth
+	poss	1 handkerchief
+	poss	1 hardest
+	poss	1 mistake
+	poss	1 tail
+	poss	1 way
+	poss	1 spoon
+	poss	1 bear
+
+	agent	61 said
+	agent	8 know
+	agent	7 think
+	agent	6 got
+	agent	6 came
+	agent	6 laughed
+	agent	6 thought
+	agent	5 went
+	agent	5 saw
+	agent	5 see
+	agent	4 asked
+	agent	4 remember
+	agent	4 nodded
+	agent	4 gave
+	agent	4 took
+	agent	4 looked
+	agent	3 call
+	agent	3 tell
+	agent	3 called
+	agent	3 lived
+	agent	3 read
+	agent	3 looking
+	agent	3 do
+	agent	3 expect
+	agent	3 cried
+	agent	3 sat
+	agent	2 had
+	agent	2 used
+	agent	2 goes
+	agent	2 whispers
+	agent	2 did
+	agent	2 want
+	agent	2 get
+	agent	2 forget
+	agent	2 picked
+	agent	2 turned
+	agent	2 have
+	agent	2 heard
+	agent	2 say
+	agent	2 look
+	agent	2 began
+	agent	2 love
+	agent	2 give
+	agent	2 mean
+	agent	2 shook
+	agent	2 seen
+	agent	2 brushed
+	agent	2 coming
+	agent	2 listening
+	agent	2 escape
+	agent	2 told
+	agent	2 giving
+	agent	1 LAY
+	agent	1 rushes
+	agent	1 said----
+	agent	1 has
+	agent	1 try
+	agent	1 catch
+	agent	1 use
+	agent	1 stay
+	agent	1 hung
+	agent	1 PIGLET
+	agent	1 CATCH
+	agent	1 written
+	agent	1 nailed
+	agent	1 talking
+	agent	1 finished
+	agent	1 eating
+	agent	1 go
+	agent	1 hear
+	agent	1 laughing
+	agent	1 wrote
+	agent	1 let
+	agent	1 left
+	agent	1 sitting
+	agent	1 spruced
+	agent	1 keep
+	agent	1 fall
+	agent	1 pushed
+	agent	1 pulled
+	agent	1 discover
+	agent	1 turning
+	agent	1 explained
+	agent	1 whispered
+	agent	1 asking
+	agent	1 forgotten
+	agent	1 dry
+	agent	1 rubbed
+	agent	1 tied
+	agent	1 stayed
+	agent	1 hope
+	agent	1 wondering
+	agent	1 come
+	agent	1 expected
+	agent	1 known
+	agent	1 loved
+	agent	1 opened
+	agent	1 put
+	agent	1 GIVES
+	agent	1 whistled
+
+	patient	5 asked
+	patient	1 fetch
+	patient	1 met
+	patient	1 liked
+	patient	1 saw
+	patient	1 had
+	patient	1 see
+	patient	1 spruced
+	patient	1 brushed
+	patient	1 Thank
+	patient	1 find
+	patient	1 round
+	patient	1 telling
+	patient	1 tell
+
+	mod	1 afraid
+	mod	1 right
+	mod	1 safe
+	mod	1 busy
+	mod	1 sure
+	mod	1 able
+	mod	1 ready
+
+59 293 Eeyore he/him/his
+
+	poss	12 tail
+	poss	5 head
+	poss	5 birthday
+	poss	3 balloon
+	poss	2 hoof
+	poss	1 feet
+	poss	1 legs
+	poss	1 turn
+	poss	1 present
+	poss	1 ear
+	poss	1 Balloon
+	poss	1 teeth
+	poss	1 way
+	poss	1 back
+	poss	1 fact
+	poss	1 party
+	poss	1 remarks
+	poss	1 leg
+	poss	1 mouth
+	poss	1 friends
+
+	agent	46 said
+	agent	7 turned
+	agent	5 say
+	agent	4 thought
+	agent	4 looked
+	agent	4 want
+	agent	3 put
+	agent	3 suppose
+	agent	3 saying
+	agent	2 know
+	agent	2 shook
+	agent	2 seem
+	agent	2 stood
+	agent	2 walked
+	agent	2 came
+	agent	2 believe
+	agent	2 explained
+	agent	2 like
+	agent	2 took
+	agent	2 hold
+	agent	2 picked
+	agent	2 have
+	agent	2 mention
+	agent	1 thinking
+	agent	1 catch
+	agent	1 left
+	agent	1 added
+	agent	1 started
+	agent	1 lost
+	agent	1 frisked
+	agent	1 doubt
+	agent	1 complaining
+	agent	1 wants
+	agent	1 keep
+	agent	1 stopped
+	agent	1 ran
+	agent	1 expect
+	agent	1 hurt
+	agent	1 having
+	agent	1 had
+	agent	1 saw
+	agent	1 became
+	agent	1 placed
+	agent	1 taking
+	agent	1 putting
+	agent	1 means
+	agent	1 ask
+	agent	1 asking
+	agent	1 telling
+	agent	1 went
+	agent	1 hung
+	agent	1 grumbling
+	agent	1 sitting
+	agent	1 swimming
+	agent	1 swished
+	agent	1 expected
+	agent	1 do
+	agent	1 escape
+	agent	1 mind
+	agent	1 heard
+	agent	1 mean
+	agent	1 tell
+	agent	1 come
+	agent	1 nodded
+	agent	1 coughed
+	agent	1 began
+	agent	1 feel
+	agent	1 known
+
+	patient	2 giving
+	patient	1 round
+	patient	1 answered
+	patient	1 sustain
+	patient	1 get
+	patient	1 seen
+	patient	1 cheer
+	patient	1 bring
+	patient	1 hurt
+	patient	1 forgetting
+	patient	1 Blame
+	patient	1 grumbled
+	patient	1 Thank
+	patient	1 sending
+	patient	1 heard
+	patient	1 asking
+	patient	1 blame
+	patient	1 interrupted
+	patient	1 ask
+
+	mod	2 end
+	mod	1 glad
+	mod	1 right
+	mod	1 friend
+	mod	1 fond
+	mod	1 sad
+	mod	1 pleased
+	mod	1 sorry
+	mod	1 miserable
+	mod	1 sure
+
+74 234 Kanga she/her
+
+	poss	8 pocket
+	poss	2 head
+	poss	1 eye
+	poss	1 fellow
+	poss	1 back
+	poss	1 house
+	poss	1 arms
+	poss	1 friend
+	poss	1 milk
+
+	agent	30 said
+	agent	4 have
+	agent	4 see
+	agent	4 spent
+	agent	3 stayed
+	agent	3 looked
+	agent	3 went
+	agent	3 knew
+	agent	3 took
+	agent	3 doing
+	agent	2 runs
+	agent	2 jumped
+	agent	2 spending
+	agent	2 fidgeting
+	agent	2 go
+	agent	2 jumping
+	agent	2 fell
+	agent	2 felt
+	agent	2 got
+	agent	2 did
+	agent	2 came
+	agent	2 swimming
+	agent	2 had
+	agent	2 escape
+	agent	1 says
+	agent	1 knows
+	agent	1 takes
+	agent	1 know
+	agent	1 look
+	agent	1 discover
+	agent	1 Discover
+	agent	1 notice
+	agent	1 practising
+	agent	1 falling
+	agent	1 saying
+	agent	1 asked
+	agent	1 like
+	agent	1 love
+	agent	1 listen
+	agent	1 unbuttoned
+	agent	1 saw
+	agent	1 thought
+	agent	1 seem
+	agent	1 looking
+	agent	1 told
+	agent	1 scrubbing
+	agent	1 tell
+	agent	1 keeps
+	agent	1 playing
+	agent	1 slipped
+	agent	1 patted
+	agent	1 wonder
+	agent	1 agreed
+	agent	1 washing
+	agent	1 telling
+	agent	1 explained
+	agent	1 listening
+	agent	1 fallen
+	agent	1 held
+	agent	1 bubbling
+	agent	1 scolded
+	agent	1 rubbed
+	agent	1 say
+	agent	1 do
+	agent	1 tried
+
+	patient	4 squeaked
+	patient	3 Tell
+	patient	2 said
+	patient	1 steal
+	patient	1 stolen
+	patient	1 CAPTURE
+	patient	1 capture
+	patient	1 lift
+	patient	1 picked
+	patient	1 told
+	patient	1 asked
+
+	mod	3 right
+	mod	2 sure
+	mod	1 interested
+	mod	1 frightened
+	mod	1 anxious
+
+43 198 Rabbit he/him/his
+
+	poss	8 relations
+	poss	5 friends
+	poss	4 house
+	poss	2 whiskers
+	poss	2 family
+	poss	2 paws
+	poss	1 voice
+	poss	1 friend
+	poss	1 door
+	poss	1 washing
+	poss	1 pocket
+	poss	1 pencil
+	poss	1 paw
+	poss	1 pool
+	poss	1 Companion
+
+	agent	44 said
+	agent	3 think
+	agent	3 going
+	agent	3 went
+	agent	3 thought
+	agent	3 like
+	agent	3 mean
+	agent	3 read
+	agent	2 means
+	agent	2 came
+	agent	2 pulled
+	agent	2 knew
+	agent	2 go
+	agent	2 had
+	agent	2 hurried
+	agent	2 suppose
+	agent	2 know
+	agent	2 escape
+	agent	2 Think
+	agent	1 gone
+	agent	1 getting
+	agent	1 took
+	agent	1 wanted
+	agent	1 finding
+	agent	1 stuck
+	agent	1 hurting
+	agent	1 fetch
+	agent	1 scratched
+	agent	1 pointed
+	agent	1 hope
+	agent	1 added
+	agent	1 say
+	agent	1 use
+	agent	1 hung
+	agent	1 felt
+	agent	1 carried
+	agent	1 want
+	agent	1 talking
+	agent	1 sit
+	agent	1 sharpened
+	agent	1 sat
+	agent	1 finished
+	agent	1 have
+	agent	1 jumping
+	agent	1 winked
+	agent	1 gave
+	agent	1 noticed
+	agent	1 lift
+	agent	1 picked
+	agent	1 playing
+	agent	1 feeling
+	agent	1 Let
+	agent	1 see
+	agent	1 give
+	agent	1 left
+	agent	1 discovered
+	agent	1 ask
+	agent	1 walked
+	agent	1 wondered
+	agent	1 forgotten
+	agent	1 Learnt
+	agent	1 bumped
+
+	patient	2 said
+	patient	1 means
+	patient	1 shook
+	patient	1 going
+	patient	1 found
+	patient	1 Did
+	patient	1 left
+	patient	1 explained
+	patient	1 asking
+	patient	1 cried
+	patient	1 flooded
+
+	mod	1 sure
+	mod	1 able
+	mod	1 eager
+	mod	1 right
+
+60 143 Owl he/him/his
+
+	poss	1 name
+	poss	1 parlour
+	poss	1 door
+	poss	1 hand
+	poss	1 pencil
+	poss	1 Pooh
+	poss	1 way
+	poss	1 friend
+	poss	1 back
+	poss	1 tree
+	poss	1 mind
+	poss	1 head
+
+	agent	27 said
+	agent	5 flew
+	agent	4 explained
+	agent	4 came
+	agent	4 told
+	agent	3 saying
+	agent	3 rang
+	agent	2 went
+	agent	2 talking
+	agent	2 thought
+	agent	2 write
+	agent	2 read
+	agent	2 wrote
+	agent	2 escape
+	agent	2 Knows
+	agent	2 go
+	agent	2 rescue
+	agent	2 say
+	agent	2 tell
+	agent	2 began
+	agent	1 lived
+	agent	1 looked
+	agent	1 started
+	agent	1 happened
+	agent	1 took
+	agent	1 made
+	agent	1 keep
+	agent	1 give
+	agent	1 licked
+	agent	1 wondered
+	agent	1 see
+	agent	1 telling
+	agent	1 explaining
+	agent	1 got
+	agent	1 know
+	agent	1 flying
+	agent	1 think
+	agent	1 fly
+	agent	1 sat
+	agent	1 tried
+	agent	1 expected
+	agent	1 felt
+	agent	1 knew
+
+	patient	2 said
+	patient	2 tell
+	patient	1 ask
+	patient	1 told
+	patient	1 find
+
+	mod	1 able
+	mod	1 helpful
+	mod	1 sure
+
+35 45 Edward Bear he/him/his
+
+	poss	4 head
+	poss	1 name
+	poss	1 friends
+	poss	1 Exercises
+	poss	1 toes
+
+	agent	5 said
+	agent	3 humming
+	agent	2 feels
+	agent	2 put
+	agent	1 like
+	agent	1 knows
+	agent	1 stop
+	agent	1 think
+	agent	1 made
+	agent	1 doing
+	agent	1 stretched
+	agent	1 go
+	agent	1 tried
+	agent	1 learnt
+	agent	1 walking
+	agent	1 came
+	agent	1 know
+	agent	1 means
+	agent	1 bent
+	agent	1 thought
+
+	patient	1 call
+	patient	1 GETS
+
+	mod	1 boy
+
+46 20 Silly old Bear he/him/his
+
+	poss	1 name
+
+	agent	4 said
+	agent	2 went
+	agent	2 going
+	agent	1 doing
+	agent	1 ran
+	agent	1 added
+	agent	1 speaking
+
+	patient	1 laughed
+	patient	1 said
+	patient	1 marched
+
+
+86 16 Pooh he/him/his
+
+
+	agent	2 did
+	agent	1 set
+	agent	1 giving
+	agent	1 said
+
+	patient	1 tell
+	patient	1 told
+	patient	1 thought
+
+
+89 14 Pooh he/him/his
+
+
+	agent	1 ate
+	agent	1 swim
+	agent	1 managed
+	agent	1 DO
+
+
+
+45 13 Hallo he/him/his
+
+
+	agent	4 said
+	agent	1 going
+	agent	1 asked
+	agent	1 stayed
+	agent	1 went
+
+	patient	1 said
+
+
+62 10 Bear he/him/his
+
+
+	agent	1 gave
+	agent	1 tried
+
+	patient	1 murmured
+	patient	1 love
+	patient	1 got
+
+
+63 10 the Heffalump he/him/his
+
+	poss	1 head
+
+	agent	1 walking
+	agent	1 looking
+	agent	1 see
+
+	patient	3 catch
+
+	mod	1 good
+
+90 10 Pooh-- he/him/his
+
+	poss	1 friend
+
+	agent	2 rescued
+	agent	1 do
+	agent	1 saved
+	agent	1 swim
+
+	patient	1 rescued
+
+
+64 9 Heffalumps he/him/his
+
+
+	agent	1 come
+
+	patient	1 caught
+	patient	1 counting
+
+	mod	1 Fierce
+
+40 4 Bears he/him/his
+
+
+
+
+
+41 4 Bees they/them/their
+
+	poss	1 nests
+
+	agent	1 build
+
+
+
+49 4 Rum - tum - tum he/him/his
+
+
+
+
+
+52 4 the Fiercer Animals he/him/his
+
+
+
+
+
+68 4 Pigs he/him/his
+
+
+
+
+
+51 3 Trespassers William he/him/his
+
+
+
+	patient	1 had
+
+
+53 3 W he/him/his
+
+	poss	1 years
+
+	agent	1 suffered
+
+	patient	1 allowed
+
+
+66 3 HUNNY he/him/his
+
+
+	agent	1 written
+
+	patient	1 had
+	patient	1 Saying
+
+
+88 3 P. Bear he/him/his
+
+
+
+
+
+91 3 Bear he/him/his
+
+
+
+
+
+42 2 Honey he/him/his
+
+
+
+	patient	1 said
+
+	mod	1 thing
+
+54 2 another Woozle they/them/their
+
+
+
+
+
+55 2 Two Woozles they/them/their
+
+
+
+
+
+56 2 Wizzle they/them/their
+
+
+
+
+
+75 2 Fierce Animals he/him/his
+
+
+
+
+

@@ -1,0 +1,13 @@
+sentence_ID,verb,agent,patient
+405,read,Owl,Owl
+405,write,Owl,Owl
+405,spell,Owl,Owl
+405,read,Owl,Owl
+405,write,Owl,Owl
+405,spell,Owl,Owl
+737,call,Pooh,Owl
+1386,get,Owl,Bear
+1486,rescue,Owl,Pooh
+1512,comfort,Owl,Piglet
+1527,expect,Owl,Owl
+1527,expect,Owl,Owl
