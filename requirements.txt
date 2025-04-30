@@ -1,2 +1,11 @@
-allennlp
-spacy
+allennlp==2.10.1
+booknlp==1.0.8
+spacy==3.3.3
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.6.0
+scipy==1.14.1
+
+#These are not all the packages in my environment, because trying to install the exact environment I have would be overkill. 
+#I have lots of packeages in my current env that I tried and that didnt work. 
+#Feel free to play around with version numbers to make it fit to your needs.
